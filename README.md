@@ -64,6 +64,8 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+[Report.docx](https://github.com/user-attachments/files/27151124/Report.docx)
 
 
 Result:
+The report successfully covers the fundamental shift from discriminative to generative modeling, highlighting the Transformer architecture as the catalyst for current LLM capabilities.
